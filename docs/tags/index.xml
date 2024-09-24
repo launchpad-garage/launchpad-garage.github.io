@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on LaunchPad</title>
-    <link>https://example.org/tags/</link>
+    <link>https://launchpad-garage.github.io/tags/</link>
     <description>Recent content in Tags on LaunchPad</description>
     <image>
       <title>LaunchPad</title>
-      <url>https://example.org/launchpad-rec.png</url>
-      <link>https://example.org/launchpad-rec.png</link>
+      <url>https://launchpad-garage.github.io/launchpad-rec.png</url>
+      <link>https://launchpad-garage.github.io/launchpad-rec.png</link>
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://launchpad-garage.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

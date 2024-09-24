@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>LaunchPad</title>
-    <link>https://example.org/</link>
+    <link>https://launchpad-garage.github.io/</link>
     <description>Recent content on LaunchPad</description>
     <image>
       <title>LaunchPad</title>
-      <url>https://example.org/launchpad-rec.png</url>
-      <link>https://example.org/launchpad-rec.png</link>
+      <url>https://launchpad-garage.github.io/launchpad-rec.png</url>
+      <link>https://launchpad-garage.github.io/launchpad-rec.png</link>
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Sep 2024 22:45:16 +0800</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://launchpad-garage.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 2</title>
-      <link>https://example.org/workshops/week2/</link>
+      <link>https://launchpad-garage.github.io/workshops/week2/</link>
       <pubDate>Mon, 23 Sep 2024 22:45:16 +0800</pubDate>
-      <guid>https://example.org/workshops/week2/</guid>
+      <guid>https://launchpad-garage.github.io/workshops/week2/</guid>
       <description>More Stuff!</description>
     </item>
     <item>
       <title>Week 1</title>
-      <link>https://example.org/workshops/week1/</link>
+      <link>https://launchpad-garage.github.io/workshops/week1/</link>
       <pubDate>Mon, 23 Sep 2024 17:02:16 +0800</pubDate>
-      <guid>https://example.org/workshops/week1/</guid>
+      <guid>https://launchpad-garage.github.io/workshops/week1/</guid>
       <description>Introduction to LaunchPad and FAQs</description>
     </item>
   </channel>
