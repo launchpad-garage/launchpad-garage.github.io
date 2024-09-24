@@ -1,3 +1,62 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: LaunchPad
+theme: ["PaperMod"]
+publishDir: docs
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+menu:
+      main:
+        - name: Workshops
+          url: workshops/
+          weight: 5
+        - name: Search
+          url: search
+          weight: 10
+        - name: WiKi
+          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+
+params:
+  # defaultTheme: light
+  # defaultTheme: dark
+  images: ["launchpad-rec.png"]
+  defaultTheme: dark # to switch between dark or light according to browser theme
+
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+
+  profileMode:
+      enabled: true
+      title: "✨ Welcome! ✨" # optional default will be site title
+      subtitle: "onestop guided program to generate and develop your ideas ☄️"
+      imageUrl: "launchpad.png" # optional
+      imageWidth: 60% # custom size
+      imageHeight: 60% # custom size
+      buttons:
+        - name: Workshops
+          url: "/workshops"
+        - name: Github
+          url: "https://github.com/"
+
+  socialIcons:
+  - name: "instagram"
+    url: "https://www.instagram.com/garage_at_eee/"
+  - name: "telegram"
+    url: "https://telegram.org"
