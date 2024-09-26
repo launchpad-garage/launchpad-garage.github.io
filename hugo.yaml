@@ -29,8 +29,6 @@ menu:
         - name: Search
           url: search
           weight: 10
-        - name: WiKi
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 
 params:
   # defaultTheme: light
@@ -50,13 +48,11 @@ params:
       imageWidth: 60% # custom size
       imageHeight: 60% # custom size
       buttons:
-        - name: Workshops
+        - name: View Workshops
           url: "/workshops"
-        - name: Github
-          url: "https://github.com/launchpad-garage/launchpad-garage.github.io"
 
   socialIcons:
-  - name: "instagram"
-    url: "https://www.instagram.com/garage_at_eee/"
-  - name: "telegram"
-    url: "https://telegram.org"
+  - name: "email"
+    url: "mailto:launchpad-garagentu@gmail.com"
+  - name: "github"
+    url: "https://github.com/launchpad-garage/launchpad-garage.github.io"
