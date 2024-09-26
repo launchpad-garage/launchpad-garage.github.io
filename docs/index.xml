@@ -11,14 +11,14 @@
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Sep 2024 17:02:16 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 18:00:00 +0800</lastBuildDate>
     <atom:link href="https://launchpad-garage.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Week 1</title>
-      <link>https://launchpad-garage.github.io/workshops/week1/</link>
-      <pubDate>Mon, 23 Sep 2024 17:02:16 +0800</pubDate>
-      <guid>https://launchpad-garage.github.io/workshops/week1/</guid>
-      <description>Introduction to LaunchPad and FAQs</description>
+      <title>Module 1: Ideation</title>
+      <link>https://launchpad-garage.github.io/workshops/module1/</link>
+      <pubDate>Fri, 27 Sep 2024 18:00:00 +0800</pubDate>
+      <guid>https://launchpad-garage.github.io/workshops/module1/</guid>
+      <description>Introduction to LaunchPad and Ideation! This module will help you generate and refine your business idea through structured techniques and resources.</description>
     </item>
   </channel>
 </rss>
