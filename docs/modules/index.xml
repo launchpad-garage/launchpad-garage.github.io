@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Workshops on LaunchPad</title>
-    <link>http://localhost:1313/workshops/</link>
-    <description>Recent content in Workshops on LaunchPad</description>
+    <title>Modules on LaunchPad</title>
+    <link>https://launchpad-garage.github.io/modules/</link>
+    <description>Recent content in Modules on LaunchPad</description>
     <image>
       <title>LaunchPad</title>
-      <url>http://localhost:1313/launchpad-rec.png</url>
-      <link>http://localhost:1313/launchpad-rec.png</link>
+      <url>https://launchpad-garage.github.io/launchpad-rec.png</url>
+      <link>https://launchpad-garage.github.io/launchpad-rec.png</link>
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Sep 2024 18:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://launchpad-garage.github.io/modules/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Module 1: Ideation</title>
-      <link>http://localhost:1313/workshops/module1/</link>
+      <link>https://launchpad-garage.github.io/modules/module1/</link>
       <pubDate>Fri, 27 Sep 2024 18:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/workshops/module1/</guid>
+      <guid>https://launchpad-garage.github.io/modules/module1/</guid>
       <description>Introduction to LaunchPad and Ideation! This module will help you generate and refine your business idea through structured techniques and resources.</description>
     </item>
   </channel>

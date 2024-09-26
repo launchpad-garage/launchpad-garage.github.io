@@ -23,8 +23,8 @@ markup:
 
 menu:
       main:
-        - name: Workshops
-          url: workshops/
+        - name: Modules
+          url: modules/
           weight: 5
         - name: Search
           url: search
@@ -48,11 +48,11 @@ params:
       imageWidth: 60% # custom size
       imageHeight: 60% # custom size
       buttons:
-        - name: View Workshops
-          url: "/workshops"
+        - name: View Modules
+          url: "/modules"
 
   socialIcons:
   - name: "email"
-    url: "mailto:launchpad-garagentu@gmail.com"
+    url: "mailto:launchpad.garagentu@gmail.com"
   - name: "github"
     url: "https://github.com/launchpad-garage/launchpad-garage.github.io"
