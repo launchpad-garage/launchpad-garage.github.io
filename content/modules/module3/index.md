@@ -72,7 +72,7 @@ Take this opportunity to <b>make improvements</b> or changes to your original id
 
 # Update 3 Submission Details
 
-- Deadline: <span style="color:#F05555;">**Tuesday, Week 14, 23:59**</a>
+- Deadline: <span style="color:#F05555;">**Saturday, 30 Nov, 23:59**</a>
 - Upload Link: <a href="https://forms.gle/tz8KLRP44dq5AJqv5" style="color:#F05555;">[Update 3 Submission]</a>
 
 Prepare a <b>Google Docs</b> document with:
