@@ -1,7 +1,7 @@
 baseURL: https://launchpad-garage.github.io/
 languageCode: en-us
 title: LaunchPad
-theme: ["PaperMod"]
+theme: ["hugo-embed-pdf-shortcode","PaperMod"]
 publishDir: docs
 
 enableRobotsTXT: true
@@ -9,6 +9,7 @@ buildDrafts: false
 buildFuture: true
 buildExpired: false
 enableEmoji: true
+enableInlineShortcodes: true
 
 outputs:
   home:
