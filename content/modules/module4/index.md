@@ -7,7 +7,7 @@ title: 'Module 4: Product Development Research'
 
 <div style="text-align: center;">
 <h1 style="font-size:60px">welcome to module 4.</h1>
-<p style="font-size:26px"> This module focuses on researching your potential prototype design and characteristics.</b></p>
+<p style="font-size:26px"> This module is about turning your product idea into a toy prototype—a basic, functional/non-functional model that represents the essence of your product.</b></p>
 <p> Keep note that this is not the Module where you need to create or design it too perfection but the module where you need to decide what are the must-have characteristics for the prototype and things like what is the best way to make this prototype (for eg. materials, collaborations, etc)</p>
 </div><br><br><br>
 

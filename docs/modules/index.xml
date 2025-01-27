@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jan 2025 20:28:54 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 17:00:33 +0800</lastBuildDate>
     <atom:link href="https://launchpad-garage.github.io/modules/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Module 5: Prototyping</title>
+      <link>https://launchpad-garage.github.io/modules/module5/</link>
+      <pubDate>Mon, 27 Jan 2025 17:00:33 +0800</pubDate>
+      <guid>https://launchpad-garage.github.io/modules/module5/</guid>
+      <description>This module is about turning your product idea into a toy prototype — a basic, functional/non-functional model that represents the essence of your product.</description>
+    </item>
     <item>
       <title>Module 4: Product Development Research</title>
       <link>https://launchpad-garage.github.io/modules/module4/</link>
