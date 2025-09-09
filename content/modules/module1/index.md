@@ -7,7 +7,7 @@ title: 'Module 1: Ideation'
 
 
 <div style="text-align: center;">
-<h1 style="font-size:60px">welcome to module 1.</h1>
+<h1 style="font-size:60px">welcome to module 1!</h1>
 <p style="font-size:26px">Welcome to Module 1! This module will help you generate and refine your business idea through structured techniques and resources.</p>
 </div><br><br><br>
 
