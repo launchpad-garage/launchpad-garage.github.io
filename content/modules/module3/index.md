@@ -1,6 +1,6 @@
 ---
 date: 2024-11-08T10:00:00+08:00
-draft: false
+draft: true
 summary: This module focuses on validating the feasibility and potential of your business idea by analyzing competitors and past players in your market space.
 title: 'Module 3: Idea Validation'
 ---
