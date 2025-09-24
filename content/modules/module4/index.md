@@ -1,6 +1,6 @@
 ---
 date: 2025-01-09T20:28:54+08:00
-draft: false
+draft: true
 summary: This module focuses on researching your potential prototype design and characteristics.
 title: 'Module 4: Product Development Research'
 ---

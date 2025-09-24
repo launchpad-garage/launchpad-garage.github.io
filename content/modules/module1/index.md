@@ -1,14 +1,14 @@
 ---
 date: "2024-09-27T18:00:00+08:00"
-draft: true
+draft: false
 summary: Introduction to LaunchPad and Ideation! This module will help you generate and refine your business idea through structured techniques and resources.
 title: 'Module 1: Ideation'
 ---
 
 
 <div style="text-align: center;">
-<h1 style="font-size:60px">welcome to module 1!</h1>
-<p style="font-size:26px">Welcome to Module 1! This module will help you generate and refine your business idea through structured techniques and resources.</p>
+<h1 style="font-size:60px">Welcome to Module 1</h1>
+<p style="font-size:26px">Welcome! This module will help you generate and refine your business idea through structured techniques and resources.</p>
 </div><br><br><br>
 
 # Part 1: Learn the Basics of Ideation
@@ -22,7 +22,7 @@ Skim through <a style="color:#3498db" href="https://mailchimp.com/resources/idea
 
 <br>
 
-Okay now that you have a very basic idea of what an idea is, let's go in slightly more depth to learn the ways to think of great business ideas.
+Now that you have a basic understanding of what an idea is, let's dive deeper into the generation of your own great business ideas.
 
 ---
 
@@ -30,10 +30,12 @@ Okay now that you have a very basic idea of what an idea is, let's go in slightl
     
 ---
 
-If you still feel like its not very clear how generating good business ideas works. <a style="color:#3498db" href="https://www.paulgraham.com/startupideas.html">Read this amazing essay by Paul Graham</a>. This will clear everything out. Long read but definitely worth it.  
+If you still feel like its not very clear how generating good business ideas works. <a style="color:#3498db" href="https://www.paulgraham.com/startupideas.html">Read this amazing essay by Paul Graham</a>. This should hopefully clear everything out for you, it's a relatively long read but is definitely worth your time.  
 
 
-Now, it's really important that you can explain what your idea is to someone who knows nothing about it. Thus, you need a simple one-liner that can be the face of your idea. It’s a great skill to be able to condense your idea into one single line. Read the article below to learn how to convert your ideas into a one-liner. There are many examples of established startups to help you understand what an ideal one-liner should look like.
+Now, it's really important that you can explain what your idea is to someone who knows nothing about it. Thus, you need a simple one-liner that can be the face of your project. It’s a great skill to be able to condense your idea into one single line. 
+
+Read the article below to learn how to convert your ideas into a one-liner. There are many examples of established start-ups to help you understand what an ideal one-liner should look like.
 
 <a style="color:#3498db" href="https://www.boringbusinessnerd.com/post/how-to-describe-your-business-in-1-sentence">How To Describe Your Business In One Line</a>
 
@@ -46,15 +48,15 @@ Now, it's really important that you can explain what your idea is to someone who
 
 <div style="font-size:20px">
 
-1. Brainstorm <span style="color:#F05555;">**at least 3 business ideas**</span> using one of the techniques from the resources above. Be open-minded and **write down every idea**, even the crazy ones!
+1. Brainstorm <span style="color:#F05555;">**at least 3 business ideas**</span> using one of the techniques from the resources above. Be open-minded and **write down everything**, even the crazy ones!
 
 <div style="margin-bottom:20px"></div>
 
-2. Narrow it down to <span style="color:#F05555;">**one idea**</span> that excites you and has market potential. Think about its feasibility and whether it's aligned with your goals. Choose the one you’re most passionate to explore and feel like ***“Yeah man this is something that needs to be there and I can get it done!!"***
+2. Narrow it down to <span style="color:#F05555;">**one idea**</span> that excites you and you think have market potential. Think about its feasibility. Is it aligned with your future plan and goals? Choose the one you’re most passionate about to explore further, the one you believe is most needed, and and the one you're most confident in your ability to bring to life. 
 
 <div style="margin-bottom:20px"></div>
 
-3. Now it's time to convert your idea into a <span style="color:#F05555;">**one-liner**</span>. Use the <a style="color:#3498db" href="https://docs.google.com/presentation/d/1C6__bjT2l1T1FH7GXMIpyO_l__uCLNrsNpCK8x_ioOs/edit?usp=sharing">one-liner template here</a>. **Do not edit directly on the template document**. Create a copy of the template document in your accounts. Choose any slide you prefer (whichever colour speaks to you the most). Edit it with your one-liner. 
+3. Now it's time to convert your idea into a <span style="color:#F05555;">**one-liner**</span>. Use the <a style="color:#3498db" href="https://docs.google.com/presentation/d/1C6__bjT2l1T1FH7GXMIpyO_l__uCLNrsNpCK8x_ioOs/edit?usp=sharing">one-liner template here</a>. **Do not edit directly on the template document**. Create a copy of the template document in your accounts. Choose any slide you prefer, whichever colour speaks to you the most. Edit it with your one-liner. 
 
 <div style="margin-bottom:20px"></div>
 
@@ -66,11 +68,11 @@ Now, it's really important that you can explain what your idea is to someone who
 
 # Update Submission
 
-<h3> After completing the steps above, submit your update through the <a href="https://forms.gle/h2ayirtiJW9wRReU6" style="color:#F05555;"><b>form here</b></a>. This is a <i>key</i> part of tracking your progress and receiving feedback. </h3>
+<h3> After completing the steps above, submit your update through the <a href="https://forms.gle/qtrf5Bw9trrGnQAZ9" style="color:#F05555;"><b>form here</b></a>. This is a <i>key</i> part of tracking your progress and receiving feedback. </h3>
 
 <br>
 
-<a style="color:#F05555;; font-size:25px;" href="https://forms.gle/h2ayirtiJW9wRReU6">SUBMIT YOUR UPDATE HERE.</a>
+<a style="color:#F05555;; font-size:25px;" href="https://forms.gle/qtrf5Bw9trrGnQAZ9">SUBMIT YOUR UPDATE HERE.</a>
 
 <br>
 

@@ -11,28 +11,14 @@
     </image>
     <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jan 2025 20:28:54 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 18:00:00 +0800</lastBuildDate>
     <atom:link href="https://launchpad-garage.github.io/modules/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Module 4: Product Development Research</title>
-      <link>https://launchpad-garage.github.io/modules/module4/</link>
-      <pubDate>Thu, 09 Jan 2025 20:28:54 +0800</pubDate>
-      <guid>https://launchpad-garage.github.io/modules/module4/</guid>
-      <description>This module focuses on researching your potential prototype design and characteristics.</description>
-    </item>
-    <item>
-      <title>Module 3: Idea Validation</title>
-      <link>https://launchpad-garage.github.io/modules/module3/</link>
-      <pubDate>Fri, 08 Nov 2024 10:00:00 +0800</pubDate>
-      <guid>https://launchpad-garage.github.io/modules/module3/</guid>
-      <description>This module focuses on validating the feasibility and potential of your business idea by analyzing competitors and past players in your market space.</description>
-    </item>
-    <item>
-      <title>Module 2: Crafting Your Business Model Canvas</title>
-      <link>https://launchpad-garage.github.io/modules/module2/</link>
-      <pubDate>Fri, 18 Oct 2024 01:08:04 +0800</pubDate>
-      <guid>https://launchpad-garage.github.io/modules/module2/</guid>
-      <description>Welcome to Module 2! Now that you&amp;rsquo;ve developed an idea in Module 1, it&amp;rsquo;s time to bring it to life with a Business Model Canvas (BMC).</description>
+      <title>Module 1: Ideation</title>
+      <link>https://launchpad-garage.github.io/modules/module1/</link>
+      <pubDate>Fri, 27 Sep 2024 18:00:00 +0800</pubDate>
+      <guid>https://launchpad-garage.github.io/modules/module1/</guid>
+      <description>Introduction to LaunchPad and Ideation! This module will help you generate and refine your business idea through structured techniques and resources.</description>
     </item>
   </channel>
 </rss>
