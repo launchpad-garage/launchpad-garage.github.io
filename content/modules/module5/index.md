@@ -1,12 +1,12 @@
 ---
 date: 2025-01-27T17:00:33+08:00
-draft: true
+draft: false
 summary: This module is about turning your product idea into a toy prototype — a basic, functional/non-functional model that represents the essence of your product.
 title: 'Module 5: Prototyping'
 ---
 
 <div style="text-align: center;">
-<h1 style="font-size:60px">welcome to module 5.</h1>
+<h1 style="font-size:60px">Welcome to Module 5</h1>
 <p style="font-size:26px"> This module is about turning your product idea into a <b>toy prototype</b> — a basic, functional/non-functional model that represents the essence of your product.</p>
 <p>This step helps you visualise your concept and explain it more effectively during the final presentation. Remember, your prototype doesn’t need to be perfect or functional — focus on how well it conveys your idea!
 </p>
@@ -97,7 +97,7 @@ Now that you’ve reviewed the resources and tips, it’s time to create and sub
 # Update 5 Submission Details
 
 - Format: Submit photos/videos with a short written explanation.
-- Deadline: Submit your update <span style="color:#F05555;">**by 9th February 2025, 23:59**</a>
-- Upload Link: <a href="https://forms.gle/yKkjsNgkAZJ71yAP7" style="color:#F05555;">[Update 5 Submission]</a>
+- Deadline: Submit your update <span style="color:#F05555;">**by Friday, Week 3, 23:59**</a>
+- Upload Link: <a href="https://forms.gle/XA1GYx5kormbp2cT6" style="color:#F05555;">[Update 5 Submission]</a>
 
-<a style="color:#F05555;; font-size:25px;" href="https://forms.gle/yKkjsNgkAZJ71yAP7">SUBMIT YOUR UPDATE HERE.</a>
+<a style="color:#F05555;; font-size:25px;" href="https://forms.gle/XA1GYx5kormbp2cT6">SUBMIT YOUR UPDATE HERE.</a>

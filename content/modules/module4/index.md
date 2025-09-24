@@ -1,14 +1,14 @@
 ---
 date: 2025-01-09T20:28:54+08:00
-draft: true
+draft: false
 summary: This module focuses on researching your potential prototype design and characteristics.
 title: 'Module 4: Product Development Research'
 ---
 
 <div style="text-align: center;">
-<h1 style="font-size:60px">welcome to module 4.</h1>
+<h1 style="font-size:60px">Welcome to Module 4</h1>
 <p style="font-size:26px"> This module is about turning your product idea into a toy prototype—a basic, functional/non-functional model that represents the essence of your product.</b></p>
-<p> Keep note that this is not the Module where you need to create or design it too perfection but the module where you need to decide what are the must-have characteristics for the prototype and things like what is the best way to make this prototype (for eg. materials, collaborations, etc)</p>
+<p> Keep note that this is not the module where you need to create or design it to perfection, but the module where you need to decide what are the must-have characteristics for the prototype and things like what is the best way to make this prototype (for eg. materials, collaborations, etc)</p>
 </div><br><br><br>
 
 # Part 1: Research on how your potential product could look/work like
@@ -84,7 +84,7 @@ Now that you’ve completed your initial research in Part 1, it’s time to comp
 
 - Format: Save your document as a **Word file** and export it as a PDF.
 - Page Limit: Maximum **2 pages**, written concisely
-- Deadline: Submit your PDF <span style="color:#F05555;">**by 20th Jan, 2025**</a>
-- Upload Link: <a href="https://docs.google.com/forms/d/1SoNspfQcZyXyl9hsn02r4R5ysxkUHxG8keVed456nTk/edit" style="color:#F05555;">[Update 4 Submission]</a>
+- Deadline: Submit your PDF <span style="color:#F05555;">**by Sem 2, Friday, Week 1**</a>
+- Upload Link: <a href="https://forms.gle/oDaYu4LwKL9uCZom7" style="color:#F05555;">[Update 4 Submission]</a>
 
-<a style="color:#F05555;; font-size:25px;" href="https://docs.google.com/forms/d/1SoNspfQcZyXyl9hsn02r4R5ysxkUHxG8keVed456nTk/edit">SUBMIT YOUR UPDATE HERE.</a>
+<a style="color:#F05555;; font-size:25px;" href="https://forms.gle/oDaYu4LwKL9uCZom7">SUBMIT YOUR UPDATE HERE.</a>

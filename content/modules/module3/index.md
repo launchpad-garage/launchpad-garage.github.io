@@ -1,13 +1,13 @@
 ---
 date: 2024-11-08T10:00:00+08:00
-draft: true
+draft: false
 summary: This module focuses on validating the feasibility and potential of your business idea by analyzing competitors and past players in your market space.
 title: 'Module 3: Idea Validation'
 ---
 
 
 <div style="text-align: center;">
-<h1 style="font-size:60px">welcome to module 3.</h1>
+<h1 style="font-size:60px">Welcome to Module 3</h1>
 <p style="font-size:26px">This module focuses on validating the feasibility and potential of your business idea by analyzing competitors and past players in your market space. This process will help you identify what works, what doesn’t, and how your idea can stand out.</p>
 </div><br><br><br>
 
@@ -72,15 +72,15 @@ Take this opportunity to <b>make improvements</b> or changes to your original id
 
 # Update 3 Submission Details
 
-- Deadline: <span style="color:#F05555;">**Saturday, 30 Nov, 23:59**</a>
-- Upload Link: <a href="https://forms.gle/tz8KLRP44dq5AJqv5" style="color:#F05555;">[Update 3 Submission]</a>
+- Deadline: <span style="color:#F05555;">**Tuesday, Week 14, 23:59**</a>
+- Upload Link: <a href="https://forms.gle/xWpK8HAotdT1whuH8" style="color:#F05555;">[Update 3 Submission]</a>
 
 Prepare a <b>Google Docs</b> document with:
 - Your findings and insights about competitors, past players, and your market.
 - Your refined final idea (if you made changes).
 - Find what they are doing/did which is not similar to your idea and why your solution is better than theirs.
 
-<a style="color:#F05555;; font-size:25px;" href="https://forms.gle/tz8KLRP44dq5AJqv5">SUBMIT YOUR UPDATE HERE.</a>
+<a style="color:#F05555;; font-size:25px;" href="https://forms.gle/xWpK8HAotdT1whuH8">SUBMIT YOUR UPDATE HERE.</a>
 
 
 
