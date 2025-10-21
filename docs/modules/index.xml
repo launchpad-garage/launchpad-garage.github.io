@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Sep 2024 18:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 01:08:04 +0800</lastBuildDate>
     <atom:link href="https://launchpad-garage.github.io/modules/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Module 2: Crafting Your Business Model Canvas</title>
+      <link>https://launchpad-garage.github.io/modules/module2/</link>
+      <pubDate>Fri, 18 Oct 2024 01:08:04 +0800</pubDate>
+      <guid>https://launchpad-garage.github.io/modules/module2/</guid>
+      <description>Welcome to Module 2! Now that you&amp;rsquo;ve developed an idea in Module 1, it&amp;rsquo;s time to bring it to life with a Business Model Canvas (BMC).</description>
+    </item>
     <item>
       <title>Module 1: Ideation</title>
       <link>https://launchpad-garage.github.io/modules/module1/</link>
