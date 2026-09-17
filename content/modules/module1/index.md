@@ -1,5 +1,5 @@
 ---
-date: "2024-09-27T18:00:00+08:00"
+date: 2026-09-25T18:00:00+08:00
 draft: false
 summary: Introduction to LaunchPad and Ideation! This module will help you generate and refine your business idea through structured techniques and resources.
 title: 'Module 1: Ideation'
