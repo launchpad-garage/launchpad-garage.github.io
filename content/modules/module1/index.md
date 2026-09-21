@@ -1,5 +1,5 @@
 ---
-date: "2024-09-27T18:00:00+08:00"
+date: "2026-09-25T18:00:00+08:00"
 draft: false
 summary: Introduction to LaunchPad and Ideation! This module will help you generate and refine your business idea through structured techniques and resources.
 title: 'Module 1: Ideation'
@@ -68,11 +68,11 @@ Read the article below to learn how to convert your ideas into a one-liner. Ther
 
 # Update Submission
 
-<h3> After completing the steps above, submit your update through the <a href="https://forms.gle/qtrf5Bw9trrGnQAZ9" style="color:#F05555;"><b>form here</b></a>. This is a <i>key</i> part of tracking your progress and receiving feedback. </h3>
+<h3> After completing the steps above, submit your update through the <a href="https://forms.gle/N9jjjEwnR297Sjrb7" style="color:#F05555;"><b>form here</b></a>. This is a <i>key</i> part of tracking your progress and receiving feedback. </h3>
 
 <br>
 
-<a style="color:#F05555;; font-size:25px;" href="https://forms.gle/qtrf5Bw9trrGnQAZ9">SUBMIT YOUR UPDATE HERE.</a>
+<a style="color:#F05555;; font-size:25px;" href="https://forms.gle/ppHkjjEH82vAThk86">SUBMIT YOUR UPDATE HERE.</a>
 
 <br>
 

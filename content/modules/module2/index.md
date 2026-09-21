@@ -1,6 +1,6 @@
 ---
 date: 2024-10-18T01:08:04+08:00
-draft: false
+draft: true
 summary: Welcome to Module 2! Now that you've developed an idea in Module 1, it's time to bring it to life with a Business Model Canvas (BMC).
 title: 'Module 2: Crafting Your Business Model Canvas'
 ---

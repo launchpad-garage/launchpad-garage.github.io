@@ -1,6 +1,6 @@
 ---
 date: 2025-01-27T17:00:33+08:00
-draft: false
+draft: true
 summary: This module is about turning your product idea into a toy prototype — a basic, functional/non-functional model that represents the essence of your product.
 title: 'Module 5: Prototyping'
 ---
