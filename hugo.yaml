@@ -1,8 +1,13 @@
 baseURL: https://launchpad-garage.github.io/
-languageCode: en-us
+locale: en-us
 title: LaunchPad
 theme: ["hugo-embed-pdf-shortcode","PaperMod"]
 publishDir: docs
+
+# Fix for PaperMod rss.xml Author error
+author:
+  name: "LaunchPad Team"
+  email: "launchpad.garagentu@gmail.com"
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -14,8 +19,8 @@ enableInlineShortcodes: true
 outputs:
   home:
     - HTML
-    - RSS
     - JSON # necessary for search
+    # - RSS  <-- (Optionally comment this out if you do not use RSS)
 
 markup:
   goldmark:
@@ -23,37 +28,36 @@ markup:
       unsafe: true
 
 menu:
-      main:
-        - name: Modules
-          url: modules/
-          weight: 5
-        - name: Search
-          url: search
-          weight: 10
+  main:
+    - name: Modules
+      url: modules/
+      weight: 5
+    - name: Search
+      url: search
+      weight: 10
 
 params:
-  # defaultTheme: light
-  # defaultTheme: dark
+  author: "LaunchPad Team"
   images: ["launchpad-rec.png"]
-  defaultTheme: dark # to switch between dark or light according to browser theme
+  defaultTheme: dark
 
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
 
   profileMode:
-      enabled: true
-      title: "✨ Welcome! ✨" # optional default will be site title
-      subtitle: "onestop guided program to generate and develop your ideas ☄️"
-      imageUrl: "launchpad.png" # optional
-      imageWidth: 60% # custom size
-      imageHeight: 60% # custom size
-      buttons:
-        - name: View Modules
-          url: "/modules"
+    enabled: true
+    title: "✨ Welcome! ✨"
+    subtitle: "onestop guided program to generate and develop your ideas ☄️"
+    imageUrl: "launchpad.png"
+    imageWidth: 60%
+    imageHeight: 60%
+    buttons:
+      - name: View Modules
+        url: "/modules"
 
   socialIcons:
-  - name: "email"
-    url: "mailto:launchpad.garagentu@gmail.com"
-  - name: "github"
-    url: "https://github.com/launchpad-garage/launchpad-garage.github.io"
+    - name: "email"
+      url: "mailto:launchpad.garagentu@gmail.com"
+    - name: "github"
+      url: "https://github.com/launchpad-garage/launchpad-garage.github.io"
