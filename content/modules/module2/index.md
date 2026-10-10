@@ -35,7 +35,7 @@ Watch real-life examples of famous companies and how they use the BMC. It's a gr
 
 ---
 
-{{< youtube id="CakUeC1sCSs" start="636">}}
+{{< youtube CakUeC1sCSs >}}
 
 ---
 
@@ -45,7 +45,6 @@ If you need a quick recap of what each section in the BMD means: <a style="color
 
 <div style="text-align: center;">
 <h1 style="font-size:50px">Build Your Business Model Canvas</h1>
-<h1></h1>
 </div>
 
 ---
@@ -77,10 +76,10 @@ Once you've completed your BMC, **download the slide as a PDF**. Then, <span sty
 
 </div>
 
-<Br>
+<br>
 
 # Update 2 Submission Details
-- Deadline: <span style="color:#F05555;">**Friday, Week 9, 23:59**</a>
+- Deadline: <span style="color:#F05555;">**Friday, Week 9, 23:59**</span>
 - Upload Link: <a href="https://forms.gle/FWuuGQD8NSXmL2Lt7" style="color:#F05555;">[Update 2 Submission]</a>
 
 <br>
@@ -95,5 +94,3 @@ Good luck, and have fun crafting your business model! This is where your entrepr
 
 >### Extra Resources!
 >Attached is a pdf of <a style="color:#3498db" href="https://drive.google.com/file/d/1Q5o9fAyQQbpVAfY_0C6vZjKv52oMjhE0/view?usp=sharing">Business Model Generation by Alexander Osterwalder & Yves Pigneur</a> (the original creators of business model template)
-
-
