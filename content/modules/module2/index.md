@@ -1,6 +1,6 @@
 ---
-date: 2024-10-18T01:08:04+08:00
-draft: true
+date: 2026-10-12T01:08:04+08:00
+draft: false
 summary: Welcome to Module 2! Now that you've developed an idea in Module 1, it's time to bring it to life with a Business Model Canvas (BMC).
 title: 'Module 2: Crafting Your Business Model Canvas'
 ---
@@ -80,12 +80,12 @@ Once you've completed your BMC, **download the slide as a PDF**. Then, <span sty
 <Br>
 
 # Update 2 Submission Details
-- Deadline: <span style="color:#F05555;">**Friday, Week 11, 23:59**</a>
-- Upload Link: <a href="https://forms.gle/ZPWPCUWbWY9fCdQ67" style="color:#F05555;">[Update 2 Submission]</a>
+- Deadline: <span style="color:#F05555;">**Friday, Week 9, 23:59**</a>
+- Upload Link: <a href="https://forms.gle/FWuuGQD8NSXmL2Lt7" style="color:#F05555;">[Update 2 Submission]</a>
 
 <br>
 
-<a style="color:#F05555;; font-size:25px;" href="https://forms.gle/ZPWPCUWbWY9fCdQ67">SUBMIT YOUR UPDATE HERE.</a>
+<a style="color:#F05555;; font-size:25px;" href="https://forms.gle/FWuuGQD8NSXmL2Lt7">SUBMIT YOUR UPDATE HERE.</a>
 
 <br>
 
