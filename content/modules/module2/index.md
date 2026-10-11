@@ -1,5 +1,5 @@
 ---
-date: 2026-10-12T01:08:04+08:00
+date: "2026-10-10T18:00:00+08:00"
 draft: false
 summary: Welcome to Module 2! Now that you've developed an idea in Module 1, it's time to bring it to life with a Business Model Canvas (BMC).
 title: 'Module 2: Crafting Your Business Model Canvas'
