@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.166.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 18:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 18:00:00 +0800</lastBuildDate>
     <atom:link href="https://launchpad-garage.github.io/modules/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Module 3: Idea Validation</title>
+      <link>https://launchpad-garage.github.io/modules/module3/</link>
+      <pubDate>Sat, 17 Oct 2026 18:00:00 +0800</pubDate>
+      <guid>https://launchpad-garage.github.io/modules/module3/</guid>
+      <description>This module focuses on validating the feasibility and potential of your business idea by analyzing competitors and past players in your market space.</description>
+    </item>
     <item>
       <title>Module 2: Crafting Your Business Model Canvas</title>
       <link>https://launchpad-garage.github.io/modules/module2/</link>
